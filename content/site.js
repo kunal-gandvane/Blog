@@ -10,7 +10,7 @@ const site = {
   // Replace this with your own line. Keep it short — it sits under a very
   // large name, so one honest sentence beats a paragraph.
   subtitle:
-    'Write your own subtitle here — one line about who you are and what you spend your attention on.',
+    'a curious soul who wants to know, learn and try everything',
 
   // Shown in the footer.
   links: [
